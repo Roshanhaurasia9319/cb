@@ -69,6 +69,7 @@ const Footer = () => {
                     <div className="footer-icons">
                         <a href="#">Twitter</a>
                         <a href="#">Instagram</a>
+                        <a href="#">Watsapp</a>
                     </div>
                 </div>
             </div>
