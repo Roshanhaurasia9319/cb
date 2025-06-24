@@ -17,7 +17,7 @@ const Navbar = () => {
       <div className={`navbar-links ${isOpen ? 'active' : ''}`}>
         <a href="bettingSites">Betting Sites <span className="tag top">Top</span></a>
         <a href="bettingApp">Betting Apps</a>
-        <a href="IPL">IPL 2024</a>
+        <a href="IPL">IPL</a>
         <a href="fantasyApp">Fantasy App <span className="tag best">Best</span></a>
         <a href="casinoGameApp">Casino Games Online</a>
         <a href="blogs">Blogs</a>

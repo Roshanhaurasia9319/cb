@@ -13,7 +13,7 @@ const BettingSites = () => {
     <>
       <Header
         heading={"Best Betting Site in India"}
-        subHeading={"World Cup 2023"}
+        
         button={"Betting Sites"}
       />
 

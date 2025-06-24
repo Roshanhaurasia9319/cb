@@ -7,7 +7,7 @@ const LegalSection = () => {
       <div className="text-content">
         <h1>
           Is Online Betting Legal in India? <br />
-          <span>For IPL 2024</span> 🤔
+          <span>For IPL 2026(Coming Soon)</span> 🤔
         </h1>
 
         <p className="welcome">
@@ -15,7 +15,7 @@ const LegalSection = () => {
           <a href="https://www.cbdelhi.in" target="_blank" rel="noopener noreferrer">
             www.cbdelhi.in
           </a>
-          . When you hear the word <strong>“online betting for IPL 2024”</strong>, the first thing that comes to your mind
+          . When you hear the word <strong>“online betting for IPL 2026”</strong>, the first thing that comes to your mind
           most probably is <strong>“Is Online Betting Legal in India?”</strong> And if yes, how do we know which betting website is legal or not?
         </p>
 
@@ -25,12 +25,12 @@ const LegalSection = () => {
         </p>
 
         <p>
-          So, we can say that betting websites are legal in India for IPL 2024 matches, as long as they are being operated by offshore companies.
+          So, we can say that betting websites are legal in India for IPL 2026 matches, as long as they are being operated by offshore companies.
           Yes, you heard it right! You can now get the benefits of online betting websites without any worry of legal action.
           However, the central government has given the responsibility to the states related to betting in their respective states.
         </p>
 
-        <button className="betting-btn">All Betting websites 👉</button>
+        <a href="bettingSites"><button className="betting-btn">All Betting websites 👉</button></a>
       </div>
 
       <div className="image-section">

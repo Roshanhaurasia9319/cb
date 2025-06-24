@@ -114,7 +114,7 @@ export const fantasyApps = [
 const IPL = ()=>{
     return (
        <div>
-         <Header heading={'Best Cricket League in the World'} subHeading={'Tata IPL 2025'} button={'IPL'} />
+         <Header heading={'Best Cricket League in the World'} subHeading={'Tata IPL 2026 (Coming Soon)'} button={'IPL'} />
          <NewsCard />
          <HorizontalCardSlider bettingSites={bettingSites} bettingHeading = {"New Betting Sites"} />
        

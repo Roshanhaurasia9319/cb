@@ -105,7 +105,7 @@ const Home = () =>{
         
         <div className="home">
             
-          <h1>Best Betting Sites in India for IPL 2024</h1>
+          <h1 className="home-text">Best Betting Sites in India for IPL 2026 (coming soon)</h1>
             <h2 class="emoji">🤩</h2>
             {cards.map((card, index) => (
                 <Card key={index} title={card.title} offerBonus={card.offerBonus} highlight={card.highlight} imgLink={card.imgLink} redirectLink = {card.redirectLink} />
